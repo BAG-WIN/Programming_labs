@@ -1,4 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Лабораторная работа №1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
-  2.cpp
-c:\users\emish\documents\mike\мтуси\3 семестр\теория и методы программирования\лабораторная работа №1\2.cpp(26): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-  Лабораторная работа №1.vcxproj -> C:\Users\emish\Documents\Mike\МТУСИ\3 семестр\Теория и методы программирования\Debug\Задание 2.exe
